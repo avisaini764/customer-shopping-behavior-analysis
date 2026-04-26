@@ -56,25 +56,8 @@ Report & Presentation (Stakeholder Deliverables)
 | **Python** (Pandas, Matplotlib, Seaborn) | Data cleaning, EDA, DB connection |
 | **SQL** (MySQL / PostgreSQL) | Business querying, segmentation analysis |
 | **Power BI** | Interactive dashboard & data visualization |
-| **Jupyter Notebook** | Analysis environment |
+| **Google Colab** | Analysis environment |
 | **Gamma AI** | Presentation creation |
-
----
-
-## 📁 Repository Structure
-
-```
-customer-shopping-behavior-analysis/
-│
-├── Customer_Shopping_Behavior_Analysis.ipynb   # Python EDA & data pipeline
-├── customer_behavior_sql_queries.sql           # SQL business queries
-├── customer_behavior_dashboard.pbix            # Power BI dashboard file
-├── customer_shopping_behavior.csv              # Raw dataset
-├── Customer Shopping Behavior Analysis.pdf     # Project report
-├── Customer-Shopping-Behavior-Analysis.pptx   # Stakeholder presentation
-├── Business Problem Document.pdf               # Problem statement
-└── README.md
-```
 
 ---
 
@@ -144,17 +127,11 @@ cd customer-shopping-behavior-analysis
 
 ---
 
-## 📊 Dashboard Preview
-
-> *Add a screenshot of your Power BI dashboard here*
-
----
-
 ## 📄 Reports & Deliverables
 
 | Deliverable | File |
 |-------------|------|
-| Project Report | `Customer Shopping Behavior Analysis.pdf` |
+| Project Report | `customer shopping behavior analysis.pdf` |
 | Stakeholder Presentation | `Customer-Shopping-Behavior-Analysis.pptx` |
 | Business Problem Statement | `Business Problem Document.pdf` |
 
@@ -162,11 +139,8 @@ cd customer-shopping-behavior-analysis
 
 ## 🤝 Connect With Me
 
-If you found this project helpful or want to discuss data analytics, feel free to connect:
-
-- 💼 **LinkedIn:** [your-linkedin-url](https://linkedin.com/in/your-profile)
-- 🐙 **GitHub:** [your-github-url](https://github.com/your-username)
-- 📧 **Email:** your.email@example.com
+If you found this project helpful, feel free to connect:
+- 📧 **Email:** avisaini764@gmail.com
 
 ---
 
@@ -175,5 +149,3 @@ If you found this project helpful or want to discuss data analytics, feel free t
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-> ⭐ If you found this project useful, please consider giving it a star — it helps others discover it!
